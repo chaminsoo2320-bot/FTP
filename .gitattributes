@@ -1,3 +1,0 @@
-/workspaces/FTP/modpacks/curseforge/SurvivalCamp.zip filter=lfs diff=lfs merge=lfs -text
-/FTP/modpacks/curseforge/SurvivalCamp.zip filter=lfs diff=lfs merge=lfs -text
-modpacks/curseforge/SurvivalCamp.zip filter=lfs diff=lfs merge=lfs -text
